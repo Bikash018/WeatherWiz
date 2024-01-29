@@ -41,7 +41,7 @@ function Forcast(props) {
 
   useEffect(() => {
     search("Delhi");
-  }, []);
+  });
 
   return (
     <div className="forecast">
