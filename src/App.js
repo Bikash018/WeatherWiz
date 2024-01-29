@@ -12,9 +12,9 @@ function App() {
       <div className="footer-info">
         {" "}
         Developed by{" "}
-        <a target="_blank" href="https://www.linkedin.com/in/bikash-kumar-prasad-0b509924a/">
+      
           Bikash Prasad
-        </a>{" "}
+      
          Leveraging React.js{" "}
         
       </div>
